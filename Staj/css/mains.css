@@ -1,0 +1,217 @@
+﻿body {
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/01a.jpg);
+    background-size: 100%;
+}
+
+    body div footer {
+        width: 472px;
+        height: 100%;
+        background: -webkit-linear-gradient(45deg,#00507a,#4f95b4,#00507a);
+        text-align: center;
+        margin-top: 50px;
+        border-radius: 8px;
+    }
+
+        body div footer .header {
+            padding-top: 10px;
+            font-size: 24px;
+            font-family: Tahoma, Arial;
+            height: 50px;
+            color: #e2e1e2;
+            font-weight: 500;
+            letter-spacing: 1px;
+        }
+
+    body div nav {
+        height: 369px;
+        width: 672px;
+        background: -webkit-linear-gradient(45deg,#00507a,#4f95b4,#00507a);
+        text-align: center;
+        margin-top: 50px;
+        border-radius: 8px;
+    }
+
+        body div nav .header {
+            padding-top: 10px;
+            font-size: 24px;
+            font-family: Tahoma, Arial;
+            height: 50px;
+            color: #e2e1e2;
+            font-weight: 500;
+            letter-spacing: 1px;
+        }
+
+.a1 {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-image: url(../img/ogrenci.png);
+    background-size: 100%;
+}
+
+    .a1:hover {
+        background-image: url(../img/ktu_logo.png);
+    }
+
+.a2 {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-image: url(../img/staj_gir.png);
+    background-size: 100%;
+}
+
+    .a2:hover {
+        background-image: url(../img/ktu_logo.png);
+    }
+
+.a3 {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-image: url('../img/yg_veya_dgsl.png');
+    background-size: 100%;
+}
+
+    .a3:hover {
+        background-image: url(../img/ktu_logo.png);
+    }
+
+.a4 {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-image: url(../img/mulakat_gir.png);
+    background-size: 100%;
+}
+
+    .a4:hover {
+        background-image: url(../img/ktu_logo.png);
+    }
+
+.a5 {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-image: url('../img/mulakat_tarih.png');
+    background-size: 100%;
+}
+
+    .a5:hover {
+        background-image: url(../img/ktu_logo.png);
+    }
+
+.a6 {
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-image: url(../img/kurul_girl.png);
+    background-size: 100%;
+}
+
+    .a6:hover {
+        background-image: url(../img/ktu_logo.png);
+    }
+
+.a7 {
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-image: url('../img/staj_listele.png');
+    background-size: 100%;
+}
+
+    .a7:hover {
+        background-image: url(../img/ktu_logo.png);
+    }
+
+.a8 {
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-image: url(../img/ogrenci_ara.png);
+    background-size: 100%;
+}
+
+    .a8:hover {
+        background-image: url(../img/ktu_logo.png);
+    }
+
+.a9 {
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-image: url('../img/staj_konusu.png');
+    background-size: 100%;
+}
+
+    .a9:hover {
+        background-image: url(../img/ktu_logo.png);
+    }
+.a10 {
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-image: url('../img/muldeg2.png');
+    background-size: 100%;
+}
+
+    .a10:hover {
+        background-image: url(../img/ktu_logo.png);
+    }
+.input {
+    color: white;
+}
+
+.form {
+    color: black;
+}
+
+.label {
+    color: white;
+    margin-top: 5px;
+}
+
+.check {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}

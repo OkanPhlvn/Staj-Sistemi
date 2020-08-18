@@ -1,0 +1,33 @@
+﻿body {
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/01a.jpg);
+    background-size: 100%;
+}
+
+    body nav {
+        width: 572px;
+        height: 100%;
+        background: -webkit-linear-gradient(45deg,#00507a,#4f95b4,#00507a);
+        text-align: center;
+        margin-top: 50px;
+        border-radius: 8px;
+    }
+.kayit_gir {
+    color: white;
+}
+.input{
+    color:white;
+}
+ul{
+
+    
+}
+    ul li {
+        display: inline;
+        padding-right: 70px;
+        padding-left: 40px;
+        text-align: center;
+        color: azure;
+        font-weight: bold;
+    }
